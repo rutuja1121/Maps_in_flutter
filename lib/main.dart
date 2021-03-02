@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         resizeToAvoidBottomInset: false,
         appBar: AppBar(
-          title: Text('Hello'),
+          title: Text('Login Screen'),
         ),
         body: Container(
           decoration: BoxDecoration(

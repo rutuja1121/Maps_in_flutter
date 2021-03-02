@@ -18,7 +18,7 @@ class _HomePageState extends State<HomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              'Google Maps',
+              'Click on blue button',
               style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
             ),
           ],
